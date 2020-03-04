@@ -100,11 +100,63 @@
 
       <h3 class="font-bold bold text-2xl lg:mb-2 mb-4 leading-none pb-4 border-b border-gray-300">Traveling with Airbnb</h3>
 
-      <section>
-
+      <section class="flex items-start flex-wrap justify-between lg:my-8 my-6 border-b border-gray-300 pb-8">
+        <div class="lg:w-1/3 w-full lg:pr-4 lg:mb-0 mb-6">
+          <svg class="w-8 h-8" viewBox="0 0 24 24" fill="#60B6B5" fill-opacity="0" stroke="#60B6B5" stroke-width="1" focusable="false" aria-hidden="true" role="presentation" stroke-linecap="round" stroke-linejoin="round"><path d="m17.5 2.9c-2.1 0-4.1 1.3-5.4 2.8-1.6-1.6-3.8-3.2-6.2-2.7-1.5.2-2.9 1.2-3.6 2.6-2.3 4.1 1 8.3 3.9 11.1 1.4 1.3 2.8 2.5 4.3 3.6.4.3 1.1.9 1.6.9s1.2-.6 1.6-.9c3.2-2.3 6.6-5.1 8.2-8.8 1.5-3.4 0-8.6-4.4-8.6" stroke-linejoin="round"></path></svg>
+          <p class="font-bold mt-3 mb-1">24/7 customer support</p>
+          <p class="text-gray-700 font-light text-sm leading-snug">Day or night, we’re here for you. Talk to our support team from anywhere in the world, any hour of day.</p>
+        </div>
+        <div class="lg:w-1/3 w-full lg:px-2 lg:mb-0 mb-6">
+          <svg class="w-8 h-8" viewBox="0 0 24 24" role="presentation" aria-hidden="true" focusable="false" fill="#60B6B5"><path d="m23.57 11.4-1.75-1.76-3.85-3.87-1.78-1.79-2.7-2.71-.82-.83-.22-.23-.06-.06c-.22-.22-.53-.22-.73-.02l-1.75 1.76-3.85 3.87-3.85 3.87-1.75 1.76a1.49 1.49 0 0 0 -.44 1.05v.01c0 .38.15.77.44 1.06l.55.55a1.49 1.49 0 0 0 2.01.08v8.4c0 .81.68 1.45 1.5 1.45h15c .82 0 1.5-.65 1.5-1.45v-8.4c.59.49 1.45.47 2.01-.08l.55-.55c.29-.29.44-.68.44-1.06v-.01c0-.38-.14-.77-.44-1.06zm-3.57 11.16c0 .24-.22.45-.5.45h-15c-.28 0-.5-.21-.5-.45v-9.36l8-7.99 8 7.99zm2.85-9.74-.55.55c-.2.2-.52.2-.71.01l-9.24-9.22a.5.5 0 0 0 -.71 0l-9.24 9.22a.5.5 0 0 1 -.71-.01l-.55-.55a.5.5 0 0 1 -.01-.71l1.75-1.76 3.85-3.87 3.85-3.87 1.4-1.4.77.77 2.7 2.71 1.78 1.79 3.85 3.87 1.75 1.76a.51.51 0 0 1 -.01.71z" fill-rule="evenodd"></path></svg>
+          <p class="font-bold mt-3 mb-1">Global hospitality standards</p>
+          <p class="text-gray-700 font-light text-sm leading-snug">Guests review their hosts after each stay. All hosts must maintain a minimum rating and our hospitality standards to be on Airbnb.</p>
+        </div>
+        <div class="lg:w-1/3 w-full lg:pl-4">
+          <svg class="w-8 h-8" viewBox="0 0 24 24" role="presentation" aria-hidden="true" focusable="false" fill="#60B6B5"><path d="m15.37 13.54-.01.01a.53.53 0 0 0 .01-.01m-.37 9.46h-11.5c-.28 0-.9-.22-1.38-.58-.71-.52-1.12-1.31-1.12-2.42 0-.04 0-.07.01-.11.09-1.1 1.59-2.44 4.02-3.79a33.14 33.14 0 0 1 2.9-1.42 35.57 35.57 0 0 1 1.31-.54c.63-.26.71-.95.18-1.35a4.55 4.55 0 0 1 -.38-.31 7.1 7.1 0 0 1 -.84-.9c-.73-.92-1.17-1.96-1.2-3.09v-2.99c.07-2.36 2.38-4.5 5.04-4.5 2.67 0 4.96 2.14 4.96 4.5v3c0 1.13-.43 2.17-1.15 3.11a7.35 7.35 0 0 1 -1.09 1.13l-.08.07c-.02.02-.02.02-.05.05s-.03.03-.09.14c-.05.47-.05.47.46.7a.49.49 0 0 0 .36-.15l.06-.05a8.32 8.32 0 0 0 1.23-1.28c.84-1.1 1.35-2.35 1.35-3.72v-3c0-2.92-2.75-5.5-5.96-5.5-3.2 0-5.96 2.56-6.04 5.49v3.01c.03 1.38.56 2.62 1.42 3.71.31.39.63.73.96 1.03.06.05.1.08.15.12a34.28 34.28 0 0 0 -3.98 1.87c-2.73 1.51-4.41 3.02-4.54 4.58a2.41 2.41 0 0 0 -.01.19c0 2.55 1.91 3.99 3.5 4h11.5a.5.5 0 1 0 0-1m7.67-4.22c-.36.74-.97 1.55-1.78 2.38a20.33 20.33 0 0 1 -1.89 1.71 19.94 19.94 0 0 1 -1.89-1.71c-.81-.83-1.42-1.64-1.78-2.38-.22-.45-.33-.86-.33-1.23 0-.99.61-1.56 1.43-1.56.7 0 1.55.53 2.18 1.31a.5.5 0 0 0 .78 0c .63-.78 1.48-1.31 2.18-1.31.82 0 1.43.57 1.43 1.56 0 .36-.11.77-.33 1.23m-1.1-3.78c-.89 0-1.82.5-2.57 1.25-.75-.76-1.68-1.25-2.57-1.25-1.36 0-2.43 1.01-2.43 2.56 0 .53.15 1.08.43 1.66.41.85 1.09 1.74 1.96 2.64a21.09 21.09 0 0 0 2.31 2.05.5.5 0 0 0 .6 0 20.91 20.91 0 0 0 2.31-2.05c.87-.9 1.55-1.79 1.96-2.64.28-.58.43-1.13.43-1.66 0-1.55-1.07-2.56-2.43-2.56" fill-rule="evenodd"></path></svg>
+          <p class="font-bold mt-3 mb-1">5-star hosts</p>
+          <p class="text-gray-700 font-light text-sm leading-snug">From fresh-pressed sheets to tips on where to get the best brunch, our hosts are full of local hospitality.</p>
+        </div>
       </section>
 
+      <h3 class="font-bold bold text-2xl lg:mb-2 mb-4 leading-none">Just booked in the United States</h3>
+
+      <section class="flex items-start flex-wrap justify-between lg:my-8 my-6">
+        <a href="#" v-for="(thouse, indice) in booked" :key="indice" :id="`book-${indice}`" :class="margenesbooked(indice)">
+          <img :src="thouse.image" class="object-cover w-full" />
+          <p class=" uppercase text-gray-600 text-xs font-bold pt-2">Entire House <span aria-hidden="true">•</span>&nbsp;{{thouse.namehouse}}</p>
+          <h4 class="font-medium my-1 text-lg leading-snug">{{thouse.description}}</h4>
+          <p class="text-gray-600 text-sm mb-1">{{thouse.price}}</p>
+          <div class="flex items-center">
+            <svg v-for="(bstart, indstart) in thouse.start" :key="indstart" class="fill-current w-2 h-2 text-cyan mr-1" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M972 380c9 28 2 50-20 67L725 619l87 280c11 39-18 75-54 75-12 0-23-4-33-12L499 790 273 962a58 58 0 0 1-78-12 50 50 0 0 1-8-51l86-278L46 447c-21-17-28-39-19-67 8-24 29-40 52-40h280l87-279c7-23 28-39 52-39 25 0 47 17 54 41l87 277h280c24 0 45 16 53 40z"/></svg>
+            <p class="text-xs text-gray-600">{{thouse.confirmed}}&nbsp;<span v-if="thouse.superhost"><span aria-hidden>•</span>&nbsp;Superhost </span></p>
+          </div>
+        </a>
+      </section>
+
+      <a href="#" class=" text-cyan text-lg flex items font-medium">Show all (22,000+) <svg viewBox="0 0 18 18" role="presentation" aria-hidden="true" focusable="false" class="ml-2 relative w-3 h-3 fill-current text-cyan"><path d="m4.29 1.71a1 1 0 1 1 1.42-1.41l8 8a1 1 0 0 1 0 1.41l-8 8a1 1 0 1 1 -1.42-1.41l7.29-7.29z" fill-rule="evenodd"></path></svg></a>
+
+      <section class="lg:mt-16 mt-8">
+        <h3 class="font-bold bold text-2xl lg:mb-2 mb-4 leading-none">When are you traveling.?</h3>
+        <p class="font-light">Add dates for updated pricing and availability</p>
+        <a href="#" class="bg-cyan px-6 py-3 rounded text-white font-bold inline-block my-2">Add dates</a>
+      </section>
     </div>
+
+    <footer class=" bg-gray-100 border-t border-gray-300 py-10 text-sm">
+      <div class="max-w-5xl mx-auto pb-8 mb-6 border-b border-gray-300 px-4 lg:px-0">
+        <div class="flex flex-wrap items-start justify-start">
+          <div class="lg:w-1/4 w-full lg:mb-0 mb-6" v-for="(tfooter, findice) in footer" :key="findice" :id="`footer-item-${findice}`">
+            <h5 class="font-semibold text-gray-700 mb-2">{{tfooter.title}}</h5>
+            <ul class="leading-loose">
+              <li v-for="subtitlename in tfooter.subtitle" :key="subtitlename"><a href="#" class="text-gray-600 hover:underline font-semibold">{{subtitlename}}</a></li>
+            </ul>
+
+          </div>
+        </div>
+
+      </div>
+
+    </footer>
 
 
 
@@ -128,6 +180,16 @@ export default {
         {imagen: require('@/assets/images/1.jpg'), start: 4, guesttext: 'What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and... ', guestimage: require('@/assets/images/jeff.jpg'), guestname:'Jeff', guestcountry: 'United States' },
         {imagen: require('@/assets/images/2.jpg'), start: 5, guesttext: 'What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and...', guestimage: require('@/assets/images/lesley.jpg'), guestname:'Lesley', guestcountry: 'United Kindon' },
         {imagen: require('@/assets/images/3.jpg'), start: 4, guesttext: 'What a wonderful little cottage! More spacious and adorable than the pictures show. We never met our hosts, but we felt welcomed and... ', guestimage: require('@/assets/images/denise.jpg'), guestname:'Denise', guestcountry: 'United States' }
+      ],
+      booked: [
+        {image: require('@/assets/images/just-booked-1.jpg'), namehouse: 'Joshua Tree', description: 'The Joshua Tree House', price: '$285/night', start: 5, confirmed: 487, superhost: true },
+        {image: require('@/assets/images/just-booked-2.jpg'), namehouse: 'Aptos', description: 'Mushroom Dome Cabin: #1  on airbnb in the world', price: '$130/night', start: 7, confirmed: 1392, superhost: true },
+        {image: require('@/assets/images/just-booked-3.jpg'), namehouse: 'Orondo', description: 'Underground Hygge', price: '$150/night', start:6, confirmed: 552, superhost: true },
+        {image: require('@/assets/images/just-booked-4.jpg'), namehouse: 'Pioneertown', description: 'Off-grid itHouse', price: '$450/night', start: 4, confirmed: 254, superhost: false },
+      ],
+      footer: [
+        {title: 'Airbnb', subtitle: ['Careers', 'News', 'Policies', 'Help', 'Diversity & Belonging']},
+        {title: 'Discover', subtitle: ['Trust & Safety', 'Travel Credit', 'Gift Cards', 'Airbnb Citizen', 'Business Travel', 'Things To Do', 'Airbnbmag']},
       ]
     }
   },
@@ -143,6 +205,23 @@ export default {
       if(nroarticulo == 1) {
         retval += ' lg:px-2';
       }
+      return retval;
+    },
+    margenesbooked: function(nro) {
+      let retval = 'lg:w-1/4 md:w-1/2 w-full lg:mb-0 mb-6';
+      if(nro == 0) {
+        retval += ' lg:pr-2 md:pr-2';
+      }
+      if(nro == 1) {
+        retval += ' lg:px-1 md:px-1';
+      }
+      if(nro == 2) {
+        retval += ' lg:px-1 md:px-1';
+      }
+      if(nro == 3) {
+        retval += ' lg:pl-2 md:pl-2';
+      }
+
       return retval;
     }
   }
