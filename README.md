@@ -8,6 +8,11 @@ El video se puede encontrar en Youtube: [Re-create Airbnb's Home Page with Tailw
 
 El codigo origina esta en [github](https://github.com/justalever/tailwind-airbnb).
 
+## Comentario
+```
+Fue una experiencia maravillosa, elaborar este pequena pagina en tailwindcss bajo vuejs.
+```
+
 ## Project setup
 ```
 npm install
