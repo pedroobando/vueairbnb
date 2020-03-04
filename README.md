@@ -4,7 +4,7 @@
 
 El sentido de este proyecto es clonar el sitio de Airbnb, con vuejs usando tailwindcss
 
-El video se puede encontrar en Youtube: [Re-create Airbnb's Home Page with Tailwind CSS] (https://www.youtube.com/watch?v=7phZqghhho0&t=730s). Este video aplica a html solo.
+El video se puede encontrar en Youtube: [Re-create Airbnb's Home Page with Tailwind CSS](https://www.youtube.com/watch?v=7phZqghhho0&t=730s). Este video aplica a html solo.
 
 ## Project setup
 ```
