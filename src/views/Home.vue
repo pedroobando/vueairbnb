@@ -210,8 +210,8 @@ export default {
         {image: require('@/assets/images/just-booked-4.jpg'), namehouse: 'Pioneertown', description: 'Off-grid itHouse', price: '$450/night', start: 4, confirmed: 254, superhost: false },
       ],
       footer: [
-        {title: 'Airbnb', subtitle: [ {name: 'Careers', new: false}, {name:'News', new:false}, {name:'Policies', new:false}, {name:'Help', new:false}, {name:'Diversity & Belonging',new:false}]},
-        {title: 'Discover', subtitle: [ {name: 'Trust & Safety', new: false}, {name:'Travel Credit', new:false}, {name:'Gift Cards', new:false}, {name:'Airbnb Citizen', new:false}, {name:'Business Travel',new:false}, {name:'Things To Do',new:true}, {name:'Airbnbmag',new:false}]},
+        {title: 'Airbnb', subtitle: [ {name: 'Careers', new: false}, {name:'News', new:false}, {name:'Policies', new:false}, {name:'Help', new:true}, {name:'Diversity & Belonging',new:false}]},
+        {title: 'Discover', subtitle: [ {name: 'Trust & Safety', new: true}, {name:'Travel Credit', new:false}, {name:'Gift Cards', new:false}, {name:'Airbnb Citizen', new:false}, {name:'Business Travel',new:false}, {name:'Things To Do',new:true}, {name:'Airbnbmag',new:false}]},
         {title: 'Hosting', subtitle: [ {name: 'Why Host', new: false}, {name:'Hospitality', new:false}, {name:'Responsible Hosting', new:false}, {name:'Community Center', new:false}, {name:'Host an Experience',new:true}, {name:'Open Homes',new:false}, {name:'Donations',new:true}]},
       ]
     }
